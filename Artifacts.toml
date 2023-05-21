@@ -1,0 +1,80 @@
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "734677ab1765cdffeaf0dd292516feba6d2233ad"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "ba4770abcde3833cf39646ff2412764984d9badc92891ea4b03c236b8132335d"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-gnu-cxx03.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4b1d951bcb98bd34179b22d8c0bcb7f44918091"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "ecfef4017511472be7f8f0c5710b767c50adb0059a4a5da5814c6ccedda50454"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "62e86bf41ea0c48ddc49bb6c85906fb182e99f37"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "048b55df0885bbf5a4d5469eb90b379ec5b8a7dd2b9dd58b949f9a4f5d339ad7"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-musl-cxx03.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f1e2b04e1de49bf30ea8263580eb7b2a58beb7d"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "288639f6ae461a991e51d08b025c06c25adbd431111c1128b036abf7529b1cb7"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-musl-cxx11.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "51926427b494e65b6963851b176f7953a6adc5a8"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "c9618c34f6f6ac77acbd7342733ee9ba94469114c34fc840c1609ef26a4e1e02"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44aabcfe2b6e27fda6fa28f387eb3b9fd10559d5"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "c434aefc66c03866eab5ad116acf361b04f6201f2151971a75eaad8e1052a5d9"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9067f9eba05323d91f9251516651f529a37cb37"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "40b3149afef74d993e1232c26e993c6a2a390668acd50ec96f3845e65a4d93f1"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-musl-cxx03.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "699b213dcddd50027e0ffd841111c12a5b5c3627"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "c6d4a2f10cf2fdb648d6111db0b42db24adc0f3815e12d294a949cff55538f6c"
+    url = "https://github.com/JuliaBinaryWrappers/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-musl-cxx11.tar.gz"
